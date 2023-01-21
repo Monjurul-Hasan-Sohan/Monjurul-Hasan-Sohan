@@ -1,1 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monjurul-Hasan-Sohan&show_icons=true&theme=tokyonight)
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monjurul-Hasan-Sohan&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monjurul-Hasan-Sohan&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monjurul-Hasan-Sohan&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monjurul-Hasan-Sohan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Monjurul-Hasan-Sohan&theme=tokyonight&utcOffset=8)
