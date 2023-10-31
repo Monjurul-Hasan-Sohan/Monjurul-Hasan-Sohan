@@ -25,7 +25,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohan_bhuiyan_" target="blank"><img src="https://img.shields.io/twitter/follow/sohan_bhuiyan_?logo=twitter&style=for-the-badge" alt="sohan_bhuiyan_" /></a> </p>
 
-- 🔭 I’m currently working on **CNC**
+- 🔭 I’m currently working on **CNC robotics**
 
 - 🌱 I’m currently learning **MehtA+ AI/Machine Learning**
 
@@ -35,7 +35,7 @@
 
 - 💬 Ask me about **AI, Robotics, Leadership**
 
-- 📫 How to reach me **sohanbhuiyan085@gmail.com**
+- 📫 How to reach me **sohanbhuiyan00@gmail.com**
 
 - ⚡ Fun fact **The word "robot" was first used in a 1920 play called "Rossum's Universal Robots" by Czech writer Karel Čapek. The word is derived from the Czech word "robota" which means "forced labor" or "drudgery." So next time you're building a robot, just remember, you're continuing a tradition of robots as a representation of forced labor or drudgery in literature.**
 
