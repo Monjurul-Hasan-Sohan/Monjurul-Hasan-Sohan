@@ -338,6 +338,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Monjurul-Hasan-Sohan/Monjurul-Hasan-Sohan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Monjurul-Hasan-Sohan/Monjurul-Hasan-Sohan/output/snake.svg"/>
 
 ###
